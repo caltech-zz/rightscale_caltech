@@ -1,4 +1,4 @@
 rightscale_caltech
 ==================
 
-rightscale caltech
+rightscale caltech .
